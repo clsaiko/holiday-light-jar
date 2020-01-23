@@ -1,0 +1,9 @@
+#
+#Wed Feb 15 15:26:59 CST 2017
+default.com-microchip-mplab-nbide-toolchainXC16-XC16LanguageToolchain.md5=0cbf54fc48686f2308ba2b458884898d
+default.languagetoolchain.dir=/opt/microchip/xc16/v1.30/bin
+configurations-xml=a5bc082c1e2ea47b4620e44580679c94
+com-microchip-mplab-nbide-embedded-makeproject-MakeProject.md5=052f1b4cfa7e50cd33bbbb4073423f9e
+default.languagetoolchain.version=1.30
+host.platform=linux
+conf.ids=default
